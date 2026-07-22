@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # pos
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# pos
+>>>>>>> 7279f7ccf247e295349cf044f770256ee25d684c
