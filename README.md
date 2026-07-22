@@ -3,7 +3,7 @@
 A desktop Point-of-Sale (POS) application built with Flutter for cosmetic/retail stores — inventory management, billing, GST/discount calculation, thermal receipt printing, and invoice history, all running offline on local storage.
 
 <!-- Banner: replace with your own screenshot -->
-![App Banner](banner.png)
+![App Banner](banners.png)
 
 ## Overview
 
